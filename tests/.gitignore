@@ -1,0 +1,5 @@
+.vscode/
+assets/
+path/
+.pytest_cache/
+.DS_Store
